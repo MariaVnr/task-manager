@@ -1,4 +1,4 @@
-# AI Interaction - назва запиту
+# AI Interaction - Назва запиту
 
 ## Мета взаємодії
 
